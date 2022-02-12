@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "99c4b9ec1b8891ff787677276760beb6d6d4919c55660da1c713682156a6086c"
+            "sha256": "7072200b805230c36feecb5dcd15277e7650f3d82d78438585944dea8e3c24f1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -53,6 +53,21 @@
             ],
             "index": "pypi",
             "version": "==4.0.2"
+        },
+        "django-polls": {
+            "hashes": [
+                "sha256:f3eadbffcfa393cc9c3f5e6ec19066915e63574650d209fd0da645044bf6df25"
+            ],
+            "path": "./django-pools/dist/django-polls-0.1.tar.gz",
+            "version": "==0.1"
+        },
+        "setuptools": {
+            "hashes": [
+                "sha256:43a5575eea6d3459789316e1596a3d2a0d215260cacf4189508112f35c9a145b",
+                "sha256:66b8598da112b8dc8cd941d54cf63ef91d3b50657b374457eda5851f3ff6a899"
+            ],
+            "index": "pypi",
+            "version": "==60.8.2"
         },
         "sqlparse": {
             "hashes": [
